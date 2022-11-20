@@ -1,0 +1,16 @@
+set up python ios
+tải ish
+
+---  lệnh setup --
+
+apk add py3-pip
+
+pip3 install requests
+pip3 install bs4
+
+
+
+-- lệnh chạy tool --
+
+python3 shareao_habaonam.py
+
